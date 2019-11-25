@@ -4,6 +4,5 @@ requests
 requests_toolbelt
 argparse
 # For pdf to text , requires poppler
-pdftotext
 pyocr
 wand
