@@ -1,4 +1,5 @@
 cx_Oracle
+psycopg2
 PyPDF2
 requests
 requests_toolbelt
